@@ -255,7 +255,7 @@ ZW06na033_p0011a01║ Chinese. However, this work, on the whole, being frequentl
 ZW06na033_p0011a02║ and on, had not been really unfolded. The situation has changed
 ZW06na033_p0011a03║ somewhat since 1980's. The Buddhist circles in Taiwan have
 ZW06na033_p0011a04║ been engaged in translating the southern Buddhist scriptures from
-ZW06na033_p0011a05║Japanese while the Buddhist scholars in the mainland have made
+ZW06na033_p0011a05║ Japanese while the Buddhist scholars in the mainland have made
 ZW06na033_p0011a06║ efforts to translate the scriptures directly from the original Pali
 ZW06na033_p0011a07║ texts. What is especially worth mentioning is Prof. Deng Dianchen's
 ZW06na033_p0011a08║ great determination and dedication to the cause, into
@@ -276,7 +276,7 @@ ZW06na033_p0011a22║ are published in the fifth number of the Buddhist Texts No
 ZW06na033_p0011a23║ in the Tripitaka, are all Prof. Deng's posthumous works,
 ZW06na033_p0011a24║ and the Da Nian Chu Jing has been jointly translated by Prof.
 ZW06na033_p0011a25║ Deng and Mrs. Zhao. In addition, the Da Sui Dao Ben Sheng
-ZW06na033_p0011a26║Jing Zhuan translated by Prof. Deng has been published and included
+ZW06na033_p0011a26║ Jing Zhuan translated by Prof. Deng has been published and included
 ZW06na033_p0011a27║ into the "Library of Dharma Voice" by the Chinese Buddhist
 ZW06na033_p0011a28║ Association, and his Zhang Lao Ji and Zhang Lao Ni Ji
 ZW06na033_p0012a01║ have also been put into one book and published by the Chinese Social
@@ -430,7 +430,7 @@ ZW06na033_p0017a08║ at probing the catalog structure of the Kaibaozang, though
 ZW06na033_p0017a09║ object I have examined is the inclusion of the scriptures of the
 ZW06na033_p0017a10║ Tiantai Sect into the Tripitaka. Since I have made an appointment
 ZW06na033_p0017a11║ with Mr. 緒方香州, a Japanese scholar, to cooperate with
-ZW06na033_p0017a12║each other in the program of studying and restoring the original
+ZW06na033_p0017a12║ each other in the program of studying and restoring the original
 ZW06na033_p0017a13║ catalog of the Kaibaozang, this paper is in fact a partial result of
 ZW06na033_p0017a14║ the above-mentioned research.
 ZW06na033_p0017a15║The third number of the Buddhist Texts Not Contained in
@@ -449,7 +449,7 @@ ZW06na033_p0017a27║ our best to publish one number every six months, if our fu
 ZW06na033_p0017a28║ be guaranteed and no other special matters occur unexpectedly. In
 ZW06na033_p0018a01║ terms of the content, in addition to publishing continuously some
 ZW06na033_p0018a02║ of the collated texts of the Azhali Sect, we shall still lay stress on
-ZW06na033_p0018a03║the collation of the Dunhuang surviving books.
+ZW06na033_p0018a03║ the collation of the Dunhuang surviving books.
 ZW06na033_p0018a04║
 ZW06na033_p0018a05║Fang Guangchang
 ZW06na033_p0018a06║Beijing
@@ -461,7 +461,7 @@ ZW06na033_p0019a03║方廣錩
 ZW06na033_p0019a04║
 ZW06na033_p0019a05║《藏外佛教文獻》第一輯の序において、「藏外佛教
 ZW06na033_p0019a06║文獻」とは何であるかを、つぎのように解釋したこと
-ZW06na033_p0019a07║がある。「近代以來、サンスクリツト語．パ—リ語．チ
+ZW06na033_p0019a07║がある。「近代以來、サンスクリツト語．パーリ語．チ
 ZW06na033_p0019a08║ベツト語．モンゴル語等の言語に翻譯された佛教典
 ZW06na033_p0019a09║籍。敦煌藏經洞に保存された大量の佛教典籍。各地
 ZW06na033_p0019a10║の圖書館．博物館に保管された歷代大藏經未收の古代
@@ -472,7 +472,7 @@ ZW06na033_p0019a14║獻』と呼ぶ。」これまでの第一輯から第三�
 ZW06na033_p0019a15║煌遺書中の若干の佛教文獻を集中的に整理發表して
 ZW06na033_p0019a16║きたのであるが、今回の第四輯から第六輯において
 ZW06na033_p0019a17║は、その他の方面の佛教文獻をも若干選擇紹介して、
-ZW06na033_p0019a18║いわゆる「藏外佛教文獻」の具體的なイメ—ジをもつ
+ZW06na033_p0019a18║いわゆる「藏外佛教文獻」の具體的なイメージをもつ
 ZW06na033_p0019a19║ていただきたいとおもう。
 ZW06na033_p0019a20║まずチベツト語佛典の漢譯版である。周知のよ
 ZW06na033_p0019a21║うに、藏傳佛教はわが國の三大佛教體系のひとつで、
@@ -517,7 +517,7 @@ ZW06na033_p0021a09║佛教界、學界の懸案事項として、《法句經�
 ZW06na033_p0021a10║論》などが漢譯されたものの、斷續的で、全面的展開に
 ZW06na033_p0021a11║は至らなかつた。八十年代になつて情況に變化があ
 ZW06na033_p0021a12║らわれ、台灣の佛教界では日本語からの重譯に力を注
-ZW06na033_p0021a13║ぎ、大陸の學者はパ—リ—語原典から直接に漢譯する
+ZW06na033_p0021a13║ぎ、大陸の學者はパーリ語原典から直接に漢譯する
 ZW06na033_p0021a14║努力がつづけられた。とりわけ鄧殿臣教授は全力を
 ZW06na033_p0021a15║傾けてこの一大事業に取りくむ決意を示され、南傳佛
 ZW06na033_p0021a16║典のすぐれた翻譯を續けてこられたが、まさにわれわ
@@ -657,7 +657,7 @@ ZW06na033_p0026a24║あつたため、整理編輯の進行狀況も從來と�
 ZW06na033_p0026a25║稿に遲延をきたすこととなつた。けつきよく第四、第
 ZW06na033_p0027a01║五、第六の三輯の原稿をひとまとめにし、統一處理を
 ZW06na033_p0027a02║して同時出版することに決定した次第である。こう
-ZW06na033_p0027a03║して全體からみれば、基本的に半年一輯のペ—スを守
+ZW06na033_p0027a03║して全體からみれば、基本的に半年一輯のペースを守
 ZW06na033_p0027a04║つたことになる。今後も經費が保證され、特殊事情の
 ZW06na033_p0027a05║ないかぎり、半年一輯刊行の努力をつづけてゆく所存
 ZW06na033_p0027a06║である。內容については、すでに整理のすんだ阿吒力
